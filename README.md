@@ -10,7 +10,12 @@ python app.py
 ```
 
 
-To access your flask application open new tab in and paste the url:
-```
-https://{your_url}.pwskills.app:5000/
-```
+It's a simple calculator app made with Flask. 
+
+There are 3 Inputs 
+  a. Opertion
+  b. First Number
+  c. Send Number
+ 
+After entering the above information, you must click the generate button to see the results.
+When you click on Generate, it will take you to the maths route link and display the output on that page.
